@@ -1,2 +1,4 @@
 welcome
 introduction
+technical-data-literacy
+critical-data-literacy
